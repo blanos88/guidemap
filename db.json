@@ -21,8 +21,8 @@
 
     "items": [
       {
-        "title": "maps: miloudi",
-        "image": "https://usercontent2.hubstatic.com/6961601.jpg",
+        "title": "BERMUDA",
+        "image": "https://i.ibb.co/RhDVwsp/bermuda.png",
         "color": "#000000",
         "text_size": "25",
         "isLink": true,
@@ -34,8 +34,8 @@
 		"background": "#00FF00"
       },
       {
-        "title": "The Old 2",
-        "image": "https://usercontent1.hubstatic.com/8037694.jpg",
+        "title": "KALAHARI",
+        "image": "https://i.ibb.co/26cX4K4/kalahari.png",
 		"color": "#FFFFFF",
         "text_size": "25",
         "isLink": true,
@@ -47,47 +47,8 @@
 		"background": "#00FF00"
       },
       {
-        "title": "Call of Cthulhu: Wasted Land ",
-        "image": "https://usercontent1.hubstatic.com/6961608.jpg",
-		"color": "#FFFFFF",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "",
-		"setLink": "",
-        "image_link": "",
-        "text": "Dark Meadow : The Pact",
-        "isNative": false,
-		"background": "#00FF00"
-      },
-      {
-        "title": "Dead Space Android",
-        "image": "https://usercontent2.hubstatic.com/6961611_f520.jpg",
-		"color": "#FFFFFF",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "",
-		"setLink": "",
-        "image_link": "",
-        "text": "Dark Meadow : The Pact",
-        "isNative": false,
-		"background": "#00FF00"
-      },
-      {
-        "title": "Bloody Mary",
-        "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
-		"color": "#FFFFFF",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "",
-		"setLink": "",
-        "image_link": "",
-        "text": "Dark Meadow : The Pact",
-        "isNative": false,
-		"background": "#00FF00"
-      },
-      {
-        "title": "Twisted Lands: Shadow Town",
-        "image": "https://usercontent1.hubstatic.com/6961620.jpg",
+        "title": "PURGATORY ",
+        "image": "https://i.ibb.co/0cb5kh3/purgatory.png",
 		"color": "#FFFFFF",
         "text_size": "25",
         "isLink": false,
